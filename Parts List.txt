@@ -1,0 +1,22 @@
+3D printed parts:
+1off Main Case
+1off Lid
+1off Monitor Mount Base
+1off Monitor Mount Flap
+1off Camera Case Back
+1off Camera Case Front
+
+Hardware:
+4off M2.5x10 csk bolts
+4off M3x8 csk bolts
+4off M2x6 cap bolts
+1off M3x16 csk bolt
+1off M3x35 csk bolt
+1off M3 nyloc nut
+4off 6x3mm round magnets
+
+Electronics:
+Raspberry Pi 5
+Raspberry Pi camera module 3
+Raspberry Pi active cooler
+Raspberry Pi hat
